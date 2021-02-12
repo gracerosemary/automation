@@ -3,7 +3,7 @@
 **Author**: Grace Choi
 **Version**: 1.0.0
 
-PR Link: 
+PR Link: https://github.com/gracerosemary/automation/pull/1  
 
 ## Overview
 Given a document potential-contacts, find and collect all email addresses and phone numbers.  
